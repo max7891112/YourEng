@@ -1,0 +1,183 @@
+.full-screen-wrapper {
+  background-color: #000;
+  height: 600px;
+}
+
+.full-screen_read-area {
+  padding-top: 140px;
+}
+.full-screen__left-part {
+  padding: 0;
+}
+.full-screen__link-size {
+  width: 189px;
+  height: 48px;
+}
+.full-screen__right-part {
+  padding-top: 121px;
+}
+.choose-course__navigation {
+  padding-top: 20px;
+}
+.choose-course__navigation-main {
+  color: #FFFFFF;
+}
+.choose-course__navigation-course {
+  color: #FFFFFF;
+}
+
+.advantages {
+  background-color: #FFFFFF;
+}
+.advantages__card:nth-child(3) {
+  padding-bottom: 0;
+}
+.advantages__card:nth-child(4) {
+  padding-bottom: 0;
+}
+
+.structure-lesson {
+  background-color: #F7F8F7;
+  max-height: 776px;
+}
+.structure-lesson__container {
+  max-width: 1140px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: row;
+}
+@media (max-width: 999px) {
+  .structure-lesson__container {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+.structure-lesson__left-part {
+  width: 50%;
+  padding-left: 30px;
+}
+.structure-lesson__title {
+  font-weight: 700;
+  font-size: 45px;
+  line-height: 55px;
+  padding-top: 60px;
+}
+.structure-lesson__under-title {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  padding-top: 40px;
+}
+.structure-lesson__choose-data {
+  display: flex;
+}
+.structure-lesson__data-number {
+  padding-top: 20px;
+  font-weight: 600;
+  font-size: 200px;
+  line-height: 244px;
+  color: #005C3D;
+}
+.structure-lesson__data-number-text {
+  padding: 72px 0 0 19px;
+  max-width: 346px;
+}
+.structure-lesson__choose-data-heading {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+.structure-lesson__choose-data-text {
+  padding-top: 20px;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 130%;
+}
+.structure-lesson__arrow-right {
+  width: 60px;
+  height: 26px;
+  cursor: pointer;
+  float: right;
+}
+.structure-lesson__right-part {
+  width: 50%;
+  padding: 88px 0 50px 0;
+}
+.structure-lesson__slider-line {
+  margin-top: 85px;
+  width: 100%;
+  height: 1px;
+  background-color: #0E110D;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.structure-lesson__slider-line-snake {
+  width: 33%;
+  height: 3px;
+  background-color: #005C3D;
+  position: relative;
+}
+.structure-lesson__container-for-slide-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  overflow: hidden;
+}
+.structure-lesson__snake-slide-bar {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  position: relative;
+  right: 20px;
+}
+.structure-lesson__snake-slide-bar img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+.structure-lesson__slider-img {
+  padding-right: 10px;
+}
+.structure-lesson__slider-img {
+  padding-top: 108px;
+}
+
+.animation-img__1 {
+  right: 200%;
+  transition: 0.5s;
+}
+.animation-img__2 {
+  right: 100%;
+  transition: 0.5s;
+}
+.animation-img__3 {
+  right: 0;
+  transition: 0.5s;
+}
+
+.animation-slider__1 {
+  transform: translateX(0);
+  transition: 0.5s;
+}
+.animation-slider__2 {
+  transform: translateX(100%);
+  transition: 0.5s;
+}
+.animation-slider__3 {
+  transform: translateX(200%);
+  transition: 0.5s;
+}
+
+._button-green-mod {
+  color: white;
+  border-radius: 5px;
+  transition: all 0.8s ease;
+  background-color: #009C68;
+}
+._button-green-mod:hover {
+  background-color: #005C3D;
+  cursor: pointer;
+}
+
+/*# sourceMappingURL=/course_eng-for-travel.5f736b6f.css.map */

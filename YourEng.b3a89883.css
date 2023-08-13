@@ -437,7 +437,7 @@ a {
   width: 350px;
   height: 150px;
   border-radius: 200px;
-  background-image: url(/img_1.52f34320.png);
+  background-image: url(img_1.94c04cdd.png);
   margin: 0 0 15px 0;
 }
 
@@ -445,7 +445,7 @@ a {
   width: 350px;
   height: 150px;
   border-radius: 200px;
-  background-image: url(/img_2.2a66c075.png);
+  background-image: url(img_2.09bfa327.png);
   margin-bottom: 15px;
 }
 
@@ -454,7 +454,7 @@ a {
   height: 150px;
   border-radius: 200px 200px 200px 0px;
   border-radius: 200px 0px 200px 200px;
-  background-image: url(/img_3.c7c2e27c.png);
+  background-image: url(img_3.43e91d22.png);
   margin: 0 0 0 0;
 }
 
@@ -463,14 +463,14 @@ a {
   height: 150px;
   border-radius: 200px 200px 200px 0px;
   border-radius: 200px;
-  background-image: url(/img_4.7d5ff51c.png);
+  background-image: url(img_4.cae64986.png);
 }
 
 .image-box-6 {
   width: 350px;
   height: 150px;
   border-radius: 0px 200px 200px 400px;
-  background-image: url(/img_5.d0811fc0.png);
+  background-image: url(img_5.81db853c.png);
   margin-right: 0;
 }
 
@@ -853,7 +853,7 @@ a {
   position: absolute;
   left: -25px;
   bottom: 23%;
-  background-image: url(/check-element.2f9a2680.svg);
+  background-image: url(check-element.ecf3d6b4.svg);
   background-repeat: no-repeat;
   width: 20px;
   height: 18px;
@@ -1572,7 +1572,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(51, 51, 51, 0.9) url(/on.18938d9e.svg) center/150px no-repeat;
+  background: rgba(51, 51, 51, 0.9) url(on.cd35ce9a.svg) center/150px no-repeat;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s ease 0s;
@@ -1926,7 +1926,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(51, 51, 51, 0.9) url(/on.18938d9e.svg) center/150px no-repeat;
+  background: rgba(51, 51, 51, 0.9) url(on.cd35ce9a.svg) center/150px no-repeat;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s ease 0s;
@@ -2110,7 +2110,7 @@ a {
   left: 0;
   width: 100%;
   height: 100%;
-  background: rgba(51, 51, 51, 0.9) url(/on.18938d9e.svg) center/150px no-repeat;
+  background: rgba(51, 51, 51, 0.9) url(on.cd35ce9a.svg) center/150px no-repeat;
   opacity: 0;
   visibility: hidden;
   transition: all 0.5s ease 0s;
@@ -2345,5 +2345,3 @@ a {
     backdrop-filter: blur(0);
   }
 }
-
-/*# sourceMappingURL=/YourEng.80ee2152.css.map */

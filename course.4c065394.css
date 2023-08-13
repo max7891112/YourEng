@@ -1446,7 +1446,7 @@ a {
 }
 @media (max-width: 768px) {
   .card__footer {
-    padding: 10px 0 10px 0;
+    padding: 20px 0;
   }
 }
 .card__price {
@@ -2592,7 +2592,7 @@ a {
     justify-content: center;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .choose-course__search {
     justify-content: start;
   }
@@ -2646,7 +2646,7 @@ a {
     left: 64%;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .choose-course__btn {
     width: 100px;
   }
@@ -2814,7 +2814,7 @@ a {
     width: 90%;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .course-list__cards {
     flex-direction: column;
   }
@@ -2834,7 +2834,7 @@ a {
     width: 49%;
   }
 }
-@media (max-width: 500px) {
+@media (max-width: 600px) {
   .course-list__size-lesson {
     width: 100%;
   }
